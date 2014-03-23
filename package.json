@@ -1,0 +1,20 @@
+{
+  "name": "twitter-searchcount",
+  "version": "0.1.0",
+  "description": "Count the number of available Twitter search results for a term",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harrison-M/node-twitter-searchcount"
+  },
+  "keywords": [
+    "count",
+    "search",
+    "twitter"
+  ],
+  "author": "Harrison Massey",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "0.2.x"
+  }
+}
